@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:html="http://www.w3.org/1999/xhtml">
+  <html:a href="jav&#x61;script:alert(1)">1</html:a>
+  <svg xmlns="http://www.w3.org/2000/svg" onload="alert(1)"/>
+</root>
