@@ -5,7 +5,6 @@
       "name": "企业信用报告demo_0220",
       "imgs": [
         "https://huixingpro.oss-cn-beijing.aliyuncs.com/ht1.jpg",
-        "https://w2zguwk7vt3mlky6rn9giblvlmrdf43t.oastify.com/zos/insxbff/39791977-b8ad-4616-8a45-674e56fe5de3/pdf_upload/file_ea293577-8a6c-4725-9880-3312ef0bfe2d_0.jpeg",
         "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png",
         "blob:javascript:alert('XSS')",
         "https://raw.githubusercontent.com/DWDSECYian/-Favicon-/main/x.svg"
